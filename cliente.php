@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Pagina do Cliente</p>
+    <p>Pagina do Cliente atualizada</p>
 </body>
 </html>
